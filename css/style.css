@@ -26,3 +26,19 @@ body{
     vertical-align: middle;
     font-size: 60px;
 }
+.container1{
+    margin-top:   50px;
+    margin-left: 25%;
+    width: 50%;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;
+}
+.tsk1{
+    color: white;
+    background-color: rgb(0, 76, 255);
+    padding: 10px;
+    border-radius: 7px;
+    font-size: small;
+
+}

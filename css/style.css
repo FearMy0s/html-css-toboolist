@@ -52,3 +52,68 @@ body{
     display: inline-block;
     border-color: rgb(187, 188, 190);
 }
+.container2{
+    margin-top:   3px;
+    margin-left: 25%;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+.arrow{
+    border: solid black;
+    border-width: 0px 5px 5px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.ccontainer{
+    padding-top: 50px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+.cross{
+    font-size: 15px;
+    color: red;
+    border: 2px solid;
+    border-radius: 50%;
+}
+.spunta{
+    border: solid;
+    font-size: 15px;
+    color:green;
+    border-radius: 50%;
+    border: solid 2px;
+}   
+.ccontainer1{
+    padding-top: 30px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.infomsg{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+    font-size: small;
+    color: white;
+}
+.infomsgc1{
+    background-color: skyblue;
+}
+.infomsgc2{
+    background-color: orange;
+}
+.infomsgc3{
+    background-color: purple;
+}
+.infomsgc4{
+background-color: green;
+}
+.infomsgc5{
+    background-color: pink;
+}
+.infomsgc6{
+    background-color: palegreen;
+}

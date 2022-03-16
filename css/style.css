@@ -10,7 +10,7 @@ body{
 }
 .container{
     width: 100%;
-    height: 150px;
+    height: 90px;
     background-color: white;
 }
 .immage
@@ -19,12 +19,12 @@ body{
 }
 .logo{
     vertical-align: middle;
-    width: 100px;
+    width: 50px;
 }
 .title{
     display: inline-block;
     vertical-align: middle;
-    font-size: 60px;
+    font-size: 40px;
 }
 .container1{
     margin-top:   50px;
@@ -60,6 +60,7 @@ body{
     background-color: white;
 }
 .arrow{
+    margin-right: 10px;
     border: solid black;
     border-width: 0px 5px 5px 0;
     display: inline-block;
@@ -68,15 +69,17 @@ body{
   -webkit-transform: rotate(45deg);
 }
 .ccontainer{
-    padding-top: 50px;
+    padding-top: 20px;
     margin-left: 40px;
     font-size: 30px;
 }
 .cross{
+    margin-right: 10px;
     font-size: 15px;
     color: red;
     border: 2px solid;
     border-radius: 50%;
+    margin-right:10px;
 }
 .spunta{
     border: solid;
@@ -84,6 +87,7 @@ body{
     color:green;
     border-radius: 50%;
     border: solid 2px;
+    margin-right: 10px;
 }   
 .ccontainer1{
     padding-top: 30px;
@@ -91,6 +95,7 @@ body{
     font-size: 20px;
 }
 .infomsg{
+    margin-right: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-right: 5px;
